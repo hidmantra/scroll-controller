@@ -1,0 +1,25 @@
+{
+  "name": "scroll-controller",
+  "version": "1.0.0",
+  "description": "Control attributes of elements by scrolling vertically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidmantra/scroll-controller.git"
+  },
+  "keywords": [
+    "scroll",
+    "scroller",
+    "control",
+    "controller"
+  ],
+  "author": "Deriv Diggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidmantra/scroll-controller/issues"
+  },
+  "homepage": "https://github.com/hidmantra/scroll-controller#readme"
+}
